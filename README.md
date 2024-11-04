@@ -1,4 +1,4 @@
-# LITA_CAPSTONE-PROJECT-Customer-data-
+# LITA_PROJECT_Customer_data
 This repository contains the analysis of customer data with respect to the segmentation of their subscription services
 
 ##Project Report: Customer Segmentation for a Subscription Service
