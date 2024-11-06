@@ -71,3 +71,6 @@ SELECT SubscriptionType, SUM(Revenue) AS Total_Revenue
 FROM [dbo].[CUSTOMER_DATA]
 GROUP BY SubscriptionType;
 ```
+
+
+![image](https://github.com/user-attachments/assets/db4245da-30d1-43e3-ac57-a1ad96afa106)
