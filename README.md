@@ -73,4 +73,8 @@ GROUP BY SubscriptionType;
 ```
 
 
-![image](https://github.com/user-attachments/assets/db4245da-30d1-43e3-ac57-a1ad96afa106)
+### Power BI visualisation
+
+
+![image](https://github.com/user-attachments/assets/c527e21f-5831-4551-8d3d-39ea8b16e23a)
+
