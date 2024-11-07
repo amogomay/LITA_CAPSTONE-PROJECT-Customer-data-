@@ -78,3 +78,22 @@ GROUP BY SubscriptionType;
 
 ![image](https://github.com/user-attachments/assets/c527e21f-5831-4551-8d3d-39ea8b16e23a)
 
+
+
+## CONCLUSION AND RECOMMENDATION
+
+Key Insights:
+
+  - The most popular subscription type and regions with the highest customer counts were identified.
+ 
+  - Average subscription duration provided insights into customer retention.
+ 
+  - High cancellation rates in specific regions suggested areas for improvement.
+
+Recommendations:
+
+  - Targeted Retention Strategies: Develop retention programs for regions with high cancellation rates especially the northern region
+
+  - Subscription Optimization: Consider promoting popular subscription types in underrepresented regions.
+
+  - Further Analysis: Conduct deeper analysis into factors influencing early cancellations, potentially exploring customer feedback or demographic patterns.
